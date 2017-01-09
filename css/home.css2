@@ -1,0 +1,42 @@
+@import url("style.css");
+@import url("print.css");
+
+html              {background-image: url(../img/home/bg_h2.jpg)}
+#miolo			      {width: 500px; height: 255px; overflow: auto;  margin-left:30px;}
+#logo             {background: url(../img/home/bg_logo.gif) top left no-repeat;}
+#meiologado		    {height: 95px;}
+#flash			      {width: 573px; height: 494px;}
+#bts			        {width: 500px; text-align: left;}
+#bts a.bt1		    {margin: 0px 0 0 0px;}
+#bts a.bt2		    {margin: 0px 0 0 0px;}
+#news			        {width: 500px; height: 30px; text-align: left;}
+#news div.btn	   	{width: 500px; height: 30px; text-align: right;}
+#news div.item    {width: 500px; height: 30px;}
+#news div.data 		{float: left; font-size: 11px; width: 75px; font-weight: bold; color: #3366CC;padding-top: 3px}
+#news div.tit		  {float: left; font-size: 11px; width: 100px; height: 20px; padding-top: 3px}
+#news div.titbig	{float: left; font-size: 11px; width: 300px; height: 20px; padding-top: 3px}
+#news div.seta    {float: left; font-size: 0px; width: 25px; }
+#news div.tit A		{color: #7C7C7C;}
+#news img.tit		  {margin-bottom: 10px;}
+#news div.tabtitle{margin-bottom: 5px;height: 30px;}
+#coluna, 
+#content, 
+#bts			        {float: left;}
+#news ul		      {width:233px;}
+#news ul li		    {display:inline;}
+#news ul li a     {
+                  float:left;
+                  font:bold 90% 'Trebuchet Ms', Verdana, Aria, Tahoma;
+                  color:white;
+                  padding:0 15px;
+                  height:31px;
+                  line-height:25px;
+                  text-transform:uppercase;
+                  }
+                  
+#news ul li a:hover {background:#FC210E url(/imagens/fundo-menu-hover.png) repeat-x;}
+h2 img			    {width: 192px; height: 21px; margin-bottom: 12px;}
+#bts a			    {display: block; width: 219px; height: 92px; background-position: center center; background-repeat: no-repeat;}
+#bts a.bt1		    {background-image: url(../img/home/bt_conhecaempresa.gif);}
+#bts a.bt2		    {background-image: url(../img/home/bt_sejarepresentante.gif);}
+#bts a span		    {position: absolute; left: -5000px;}

@@ -1,0 +1,148 @@
+@import url("style.css");
+@import url("print.css");
+
+/* xxxxxxxxxxxxxx [ int ] xxxxxxxxxxxxxx */
+
+html				{background-image: url(../img/rest/bg_h.jpg);}
+a					{color: #7C7C7C;}
+#logo				{background: url(../img/rest/bg_logo.gif) top left no-repeat;}
+#meio				{height: 28px;}
+#flash			{width: 573px; height: 270px;}
+
+#content,
+#coluna	      {float: left;}
+#content			{text-align: left;}
+
+#breadtitle		{width: 509px; margin: 10px 0 15px 25px; background: transparent url(../img/rest/bg_breadtitle.gif) left center repeat-y;}
+#crumb			{color: #7C7C7C; margin-left: 12px; font-size: 9px;}
+#crumb a.home	{color: #1D3A78; text-decoration: underline; font-size: 9px;}
+#crumb a.home:hover	{background: #1D3A78; color: #fff; text-decoration: none;}
+#crumb,
+#title			{width: 495px;}
+#title			{margin-left: 11px; margin-top: 3px; border-bottom: 1px solid #F6F7FA;}
+
+#miolo               {width: 530px; height: 410px; overflow: auto; margin-left: 23px; margin-right: 20px; text-align: justify;}
+#miolo2              {width: 530px; height: 340px; overflow: auto; margin-left: 23px; margin-right: 20px; text-align: justify;}
+#miolo3               {width: 530px; height: 60px; overflow: auto; margin-left: 23px; margin-right: 20px; text-align: justify;}
+#pic-equipe div      {color: #7C7C7C;}
+#pic-equipe .esq	   {width: 213px; text-align: left; float: left;}
+#pic-equipe .esq img {width: 192px; height: 133px; border: 1px solid #ccc; border-bottom: 5px solid #ccc; margin-bottom: 20px;}
+#pic-equipe .dir	   {width: 275px; text-align: left; float: left;}
+#pic-equipe .dir li	{margin-bottom: 12px; line-height: 16px;}
+#pic-equipe .dir h3	{font-size: 11px; text-transform: uppercase;}
+
+#parceirodiv {margin-left: 80px;}
+
+#bts		   {margin-left: 49px;}
+a#bt-voltar	{background: transparent url(../img/rest/bg_voltar.gif) left center no-repeat; padding-left: 13px;}
+a#bt-topo	{background: transparent url(../img/rest/bg_topo.gif) left center no-repeat; padding-left: 15px; margin-left: 5px;}
+
+#bt-item	   {margin-left: 20px; background: transparent url(../img/rest/bg_item.gif) left center no-repeat; padding-left: 15px; margin-left: 5px;}
+
+#miolo.internas_noticias img,
+#miolo.historia img,
+#miolo.localizacao img,
+#miolo.institucional img,
+#miolo.ims02 img,
+#miolo.mcc02 img,
+#miolo.cbc04 img,
+#miolo.cbc05i img,
+#miolo.roteadorctf img,
+#miolo.identfid img			{float: left; margin-right: 20px; margin-bottom: 20px; border: 2px solid #ccc; border-bottom: 4px solid #ccc;}
+#miolo.ondeencontrar select{width: 274px; background: #F3F3F3; color: #666;}
+#miolo.localizacao img		{border-bottom: 5px solid #ccc;}
+#miolo.table-vant table    {width: 10px; heigth: 300px; line-height: 30px; margin-left: 5px;}
+
+ul.eventos li				   {clear: left;}
+ul.eventos li div.bt		   {background: url(../img/rest/bg_noticiaseeventos_hr.gif) center .8em repeat-x; text-align: right; margin: 8px 0;}
+ul.eventos li div.bt a		{margin-right: 6px;}
+ul.eventos li div.bt img	{width: 59px;  height: 20px;}
+ul.eventos li img.pic	   {width: 132px; height: 52px; padding: 0 1px 3px 7px; margin-right: 18px; float: left;}
+ul.eventos li img.picBig	{width: 250px; height: 140px; padding: 0 1px 3px 7px; margin-right: 18px; float: left;}
+ul.eventos span.data		   {color: #1B4DA0; font-weight: bold;}
+ul.eventos li div.text		{width: 490px;}
+
+ul.noticias li				    {clear: left;}
+ul.noticias li div.bt		  {background: url(../img/rest/bg_noticiaseeventos_hr.gif) center .8em repeat-x; text-align: right; margin: 8px 0;}
+ul.noticias li div.bt a		{margin-right: 6px;}
+ul.noticias li div.bt img	{width: 59px;  height: 20px;}
+ul.noticias li img.pic	  {width: 132px; height: 52px; padding: 0 1px 3px 7px; margin-right: 18px; float: left;}
+ul.noticias li img.picBig	{width: 250px; height: 140px; padding: 0 1px 3px 7px; margin-right: 18px; float: left;}
+ul.noticias span.data		  {color: #1B4DA0; font-weight: bold;}
+ul.noticias li div.text		{width: 490px;}
+
+
+td.labels		{width: 240px; text-align: left; padding: 0 0px 0px 5px;}
+td.fields		{padding: 0 0px 0px 5px;}
+#or input,
+#or select     {background: #F3F3F3;
+               width: 255px;
+               height: 17px;
+               border-bottom: 1px solid #CCCCCC;
+               border-right: 1px solid #CCCCCC;
+               margin-bottom: 3px;
+               color: #3F3F3F;
+               font-family: Tahoma;
+               font-size: 11px;}
+
+
+
+#seja td.labels		{width: 108px;}
+#seja td.fields		{width: 281px; text-align: right;}
+#seja input,
+#seja select	      {background: #F3F3F3; width: 274px; height: 17px; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; margin-bottom: 10px; color: #3F3F3F; font-family: Tahoma; font-size: 11px;}
+#seja select	      {width: 278px;}
+
+#fale td.labels		{width: 108px;}
+#fale td.fields		{width: 281px; text-align: right;}
+#fale input,
+#fale textarea,
+#fale select	     {background: #F3F3F3; width: 240px; height: 17px; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; margin-bottom: 10px; color: #3F3F3F; font-family: Tahoma; font-size: 11px;}
+#fale textarea	     {height: 60px;}
+
+#fale2 td.labels		{width: 108px;}
+#fale2 td.fields		{width: 490px;}
+#fale2 input         {background: #F3F3F3; width: 490px; height: 17px; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; margin-bottom: 10px; color: #3F3F3F; font-family: Tahoma; font-size: 11px;}
+#fale2 textarea      {background: #F3F3F3; height: 100px; width: 490px; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; margin-bottom: 10px; color: #3F3F3F; font-family: Tahoma; font-size: 11px;}
+
+
+#bt-continuar		{float: right; margin-top: 10px;}
+#bt-continuar a	{background: transparent url(../img/rest/bg_continuar.gif) right top no-repeat; padding: 4px 29px 5px 0; height: 30px;}
+#bt-enviar		   {float: right; margin-top: 10px;}
+#bt-enviar a		{background: transparent url(../img/rest/bl_enviar.gif) right top no-repeat; padding: 4px 29px 5px 0; height: 30px;}
+
+#or2 td.esq			{width: 22px; text-align: right; padding: 0 4px 2px 0;}
+#or2 td.dir			{width: 222px;}
+
+
+#or3 input, #or3 select	{background: #F3F3F3; width: 145px; height: 17px; border-bottom: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; margin-bottom: 3px; color: #3F3F3F; font-family: Tahoma; font-size: 11px;}
+#or3 input				{width: 142px;}
+#or3 td.labels			{width: 100px; text-align: right; padding-right: 6px;}
+#or3 td.fields			{width: 390px;}
+
+table.or4				{border-collapse: separate; border-spacing: 2px; margin: 4px 0 0 10px;}
+.or4 input				{width: 35px; background: #EFEFEF; height: 17px; border: 1px solid #CCCCCC; margin-bottom: 3px; font-family: Tahoma; font-size: 11px; padding-left: 6px;}
+.or4 td.labels			{width: 392px; color: #333333; text-align: left; padding-left: 10px; font-size: 10px;}
+.or4 td.fields			{width: 58px; text-align: right;}
+
+h3	{color: #1B4DA0; font-size: 11px; margin-bottom: 8px;}
+
+ul.produtos .item		   {height: 150px; margin-bottom: 15px; margin-right: 15px;}
+ul.produtos .item .pic	{width: 250px; height: 150px; border: 1px solid #ccc; border-bottom: 3px solid #ccc; float: left; margin-right: 15px;}
+ul.produtos .item .bt	{width: 59px; height: 20px; margin-top: 15px; float: right;}
+
+ul.automacaodepostosdecombustiveis .item		{margin-bottom: 15px;}
+ul.automacaodepostosdecombustiveis .item .pic	{width: 190px; height: 132px; border: 2px solid #ccc; border-bottom: 5px solid #ccc; float: left; margin-right: 15px;}
+ul.automacaodepostosdecombustiveis .item .bt	{width: 59px; height: 20px; margin-top: 15px; float: right;}
+
+ul.sistemadeidentificacaodeclientesefrentistas .item		{margin-bottom: 15px;}
+ul.sistemadeidentificacaodeclientesefrentistas .item .pic	{width: 190px; height: 132px; border: 2px solid #ccc; border-bottom: 5px solid #ccc; float: left; margin-right: 15px;}
+ul.sistemadeidentificacaodeclientesefrentistas .item .bt	{width: 59px; height: 20px; margin-top: 15px; float: right;}
+
+ul.coletordedados .item		   {margin-bottom: 15px;}
+ul.coletordedados .item .pic  {width: 190px; height: 132px; border: 2px solid #ccc; border-bottom: 5px solid #ccc; float: left; margin-right: 15px;}
+ul.coletordedados .item .bt	{width: 59px; height: 20px; margin-top: 15px; float: right;}
+
+#texto_noticias { line-height: 16px; }
+#linha { height: 10px; border-bottom: 1px solid #CCCCCC; }
+#linha2{ height: 1px; border-bottom: 1px solid #CCCCCC; }

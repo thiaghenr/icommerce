@@ -1,0 +1,250 @@
+/* 
+	Theme Name: Pool
+	Theme URI: http://www.lamateporunyogur.net/pool
+	Description: A blue two-column with tabbed page navigation, custom header, and widgets.
+	Author: Borja Fernandez
+	Author URI: http://www.lamateporunyogur.net
+	Version: 1.0.7-wpcom
+	Tags: custom header, blue, two columns
+*/
+
+
+	body {
+		color: #FFFFFF;
+		padding:3px 0px 3px 8px;
+		background:#296666;
+		border-color:#a2bfe9;
+	}
+	INPUT{
+		text-transform:uppercase;
+	}
+.border_box{
+width:165px;
+height:auto;
+padding:10px 0 10px 0;
+margin:1px 1px 0 2px;
+float:letf;
+text-align:center;
+border:3px #6da6b1 solid;
+}
+	
+container {
+    margin-top: 10px;
+    color: #292929;
+    width: 300px;
+    border: 1px solid #BABABA;
+  /*  background-color: #ddd;*/
+    padding: 10px;
+    margin-left: 10px;
+    margin-bottom: 1em;
+    -o-border-radius: 10px;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 10px;
+    -webkit-box-shadow: 0px 3px 7px #adadad;
+    border-radius: 10px;
+    -moz-box-sizing: border-box;
+    -opera-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -khtml-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
+  .changed {
+    background-color: yellow;
+  }
+#geral{
+	width:auto;
+	height:auto;
+	border:#ffffff; 
+	background:#296666;
+	float:left; 
+	}
+ 
+#menu{
+	width: 780px;
+	height:auto;
+	border:#ffffff; 
+	margin: 0px 0px 0 auto; 
+	float:left;
+	}	
+#button{
+	font:bold 11px/43px Arial, Helvetica, sans-serif;
+	color:#D35400;
+	background-color:#fff;
+	text-decoration:underline;
+	margin:0px 0px 0px 0px;
+	display:block;
+	}
+#quadros{
+	width: 780px;
+	height:auto;
+	border:#ffffff; 
+	margin: 0px 0px 0 auto; 
+	float:left;
+	}	
+#one{
+	
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#131313;
+	
+	float:left;
+	display:block;
+	width:990px;
+	height: 310px;
+}
+
+#two{
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	margin: 0px 0px 0px 1px; 
+	float:left;
+	
+	width:180px;
+	height: auto;
+}
+#desc{
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	margin: 0px 0px 0px 1px; 
+	float:left;
+	display:block;
+	width:290px;
+	height: auto;
+}
+
+#divider{
+	width:165px;
+	height:1px;
+	border:#ffffff; 
+	background-image:url(/images/divider.gif);
+	margin: 0px 1px 1px 6px; 
+	float:left;
+	}		
+#espaco{
+	width:5px;
+	height:1px;
+	border:#ffffff; 
+	margin: 0px 1px 1px 3px; 
+	float:left;
+	}		
+#espacov{
+	width:150px;
+	height:15px;
+	border:#ffffff; 
+	background-image:url(/images/divider.gif);
+	margin: 0px 1px 1px 6px; 
+	float:inherit;
+	}	
+#espacovg{
+	width:200px;
+	height:10px;
+	border:#ffffff; 
+	background-image:url(/images/divider.gif);
+	margin: 0px 1px 1px 6px; 
+	float:left;
+	}		
+.title_box{
+width:175px;
+height:30px;
+margin:2px 0 0 0;
+text-align:center;
+font-size:13px;
+font-weight:bold;
+color:#fff;
+line-height:30px;
+}
+border_box{
+font:normal 12px/20px Arial, Helvetica, sans-serif;
+color:#fffff; 
+width:100px;
+height:auto;
+padding:10px 0 10px 0;
+margin:1px 1px 0 2px;
+float:letf;
+color:#CCCCCC;
+}
+#borderfab{
+color:#fff; 
+width:200px;
+height:auto;
+margin:0px 0px 0px 1px;
+float:left;
+}
+#bordermar{
+color:#fff; 
+width:130px;
+height:auto;
+margin:1px 1px 0 2px;
+float:left;
+}
+#bordermarb{
+color:#fff; 
+width:130px;
+height:auto;
+margin:1px 1px 0 2px;
+float:left;
+clear:left;
+}
+#bordermarc{
+color:#fff; 
+width:130px;
+height:auto;
+margin:1px 1px 0 2px;
+float:left;
+}
+
+.banner_adds{
+width:165px;
+text-align:center;
+margin: 6px 1px 6px 6px; 
+}
+#titulos{
+	width: auto;
+	font:normal 12px/20px Arial, Helvetica, sans-serif;
+	color:#3300FF;
+	margin: 1px 0px 0px 20px; 
+	float:left;
+	display:block;
+}
+#jogos{
+	font:bold 12px/20px Arial, Helvetica, sans-serif;
+	color:#131313;
+	margin: 5px 0px 0px 0px; 
+	float:left;
+	width:300px;
+}
+#alvo{
+	color:#131313;
+	float:left;
+	width:auto;
+}
+
+#fabricas {
+	float: left;
+	margin: 0px;
+	padding: 0 0 8px 0px;
+	width: 700px;
+	}
+#commentform {
+		background: #296666;
+		border: 0px solid #D8D8D8;
+		padding: 5px 20px;
+		height:auto;
+		}
+		
+	#commentform input, #commentform textarea {
+		/*background: #F9FBFF;*/
+		border: 1px solid #B8D4FF;
+		font-size: 12px;
+		padding: 1px;
+		}
+		
+	#commentform input:focus, #commentform textarea:focus {
+		background: #EEF5FF;
+
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style2 {color: #CCCCCC}

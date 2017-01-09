@@ -1,0 +1,50 @@
+
+
+
+
+{
+    "items":[
+        {
+            "title": "Repuestos San Lorenzo",
+			"endereco": "Coronel Oviedo",
+            "items":[
+                {
+                    "title":"Catastro",
+                    "key":"1",
+                    "leaf":true
+                },
+				{
+                    "title":"Pedidos",
+                    "key":"2",
+                    "leaf":true
+                },
+				{
+                    "title":"Titulos",
+                    "key":"2",
+                    "leaf":true
+                }
+            ]
+        },
+		{
+		"title": "Santa Clara Ferreteria",
+		"endereco": "Ciudade Del Este",
+		"items":[
+                {
+                    "title":"Catastro",
+                    "key":"1",
+                    "leaf":true
+                },
+				{
+                    "title":"Pedidos",
+                    "key":"2",
+                    "leaf":true
+                },
+				{
+                    "title":"Titulos",
+                    "key":"2",
+                    "leaf":true
+                }
+            ]
+		}
+    ]
+}

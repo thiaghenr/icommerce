@@ -1,0 +1,272 @@
+/*
+ * Ext JS Library 2.2.1
+ * Copyright(c) 2006-2009, Ext JS, LLC.
+ * licensing@extjs.com
+ * 
+ * http://extjs.com/license
+ */
+ .body{
+ 	width:auto;
+	background-color:#003399;
+	}
+
+.calendar .x-menu-item-icon {
+    background-image:url(../ext-3.2.1/resources/images/default/shared/calendar.gif);
+}
+.producao {
+    background-image:url(../shared/icons/fam/producao16.png)!important;
+}
+.formula {
+    background-image:url(../shared/icons/fam/formula.png)!important;
+}
+.addinsumo {
+    background-image:url(../shared/icons/fam/addinsumo.png)!important;
+}
+.search-item {
+    font:normal 11px tahoma, arial, helvetica, sans-serif;
+    padding:3px 10px 3px 10px;
+    border-bottom:1px solid #eeeeee;
+}
+.search-item h3 {
+    display:block;
+    font:inherit;
+    font-weight:bold;
+}
+
+.search-item h3 span {
+    float: right;
+    font-weight:normal;
+    margin:0 0 5px 5px;
+    width:100px;
+    display:block;
+    clear:none;
+}
+
+.icon-folder_go {
+	background-image:url(../shared/icons/fam/folder_go.png) !important;
+}
+.icon-icommerce16 {
+	background-image:url(../shared/icons/fam/icommerce16.png) !important;
+}
+.icon-users {
+	background-image:url(../shared/icons/fam/users.png) !important;
+}
+.icon-edit {
+	background-image:url(../shared/icons/fam/edit.png) !important;
+}
+.icon-camera {
+	background-image:url(../shared/icons/fam/icon-camera.png) !important;
+}
+.icon-consig{
+	background-image:url(../shared/icons/fam/icon-consig.png) !important;
+}
+.icon-reajuste {
+	background-image:url(../shared/icons/fam/icon_reajuste16.png) !important;
+}
+.icon-key {
+	background-image:url(../shared/icons/fam/icon_key.png) !important;
+}
+.icon-periodo {
+	background-image:url(../shared/icons/fam/icon_periodo.png) !important;
+}
+.icon-compras {
+	background-image:url(../shared/icons/fam/cart.png) !important;
+}
+.icon-cartadd {
+	background-image:url(../shared/icons/fam/cart_add.png) !important;
+}
+
+.icon-folder_add {
+	background-image:url(../shared/icons/fam/folder_add_sm.png) !important;
+}
+.icon-pdf {
+	background-image:url(../shared/icons/fam/pdf.png) !important;
+}
+
+.icon-add {
+	background-image:url(../shared/icons/fam/add.gif) !important;
+}
+
+.icon-tela {
+	background-image:url(../shared/icons/fam/icon_tela.png) !important;
+}
+
+.icon-pedido {
+	background-image:url(../shared/icons/fam/icon_pedido16.png) !important;
+}
+
+.icon-pedpesquisa {
+	background-image:url(../shared/icons/fam/ped_pesquisa16.png) !important;
+}
+
+.icon-delete {
+	background-image:url(../shared/icons/fam/delete.gif) !important;
+}
+
+.icon-print {
+	background-image:url(../shared/icons/fam/printer.png) !important;
+}
+
+.icon-excluir {
+	background-image:url(../shared/icons/fam/lixeira.gif) !important;
+}
+
+.icon-search {
+	background-image:url(../shared/icons/fam/search.png) !important;
+}
+.icon-cotacao {
+	background-image:url(../shared/icons/fam/cotacao16.png) !important;
+}
+
+.icon-lista {
+	background-image:url(../shared/icons/fam/lista.png) !important;
+}
+.icon-diversos {
+	background-image:url(../shared/icons/fam/diversos.png) !important;
+}
+.icon-check {
+	background-image:url(../shared/icons/fam/check.png) !important;
+}
+.icon-bank {
+	background-image:url(../shared/icons/fam/icon_bank.png) !important;
+}
+.icon-admin {
+	background-image:url(../shared/icons/fam/icon_admin.png) !important;
+}
+.icon-cadbank {
+	background-image:url(../shared/icons/fam/cad_bank.png) !important;
+}
+.icon-acesso {
+	background-image:url(../shared/icons/fam/icon_acesso.png) !important;
+}
+.icon-contas {
+	background-image:url(../shared/icons/fam/folder_page.png) !important;
+}
+.icon-useredit {
+	background-image:url(../shared/icons/fam/group_edit.png) !important;
+}
+.icon-key {
+	background-image:url(../shared/icons/fam/icon_key.png) !important;
+}
+.icon-checked {
+	background-image:url(../shared/icons/fam/checked.gif) !important;
+}
+
+.icon-save {
+	background-image:url(../shared/icons/save.gif) !important;
+}
+
+.icon-cancel {
+	background-image:url(../shared/icons/fam/cross.gif) !important;
+}
+
+.user-red {
+	background-image:url(../shared/icons/fam/user_red.png) !important;
+}
+
+.icon-money {
+	background-image:url(../shared/icons/fam/money.png) !important;
+}
+
+.icon-negativo {
+	background-image:url(../shared/icons/fam/negativo.png) !important;
+}
+
+.icon-undo {
+	background-image:url(../shared/icons/fam/undo.png) !important;
+}
+
+.icon-produtos {
+	background-image:url(../shared/icons/fam/icon-produtos.png) !important;
+}
+
+.icon-hist-prod {
+	background-image:url(../shared/icons/fam/icon_hist_prod.png) !important;
+}
+
+.icon-pedidos {
+	background-image:url(../shared/icons/fam/icon-pedidos.png) !important;
+}
+
+.icon-cadprod {
+	background-image:url(../shared/icons/fam/cadprod.png) !important;
+}
+
+.icon-prod {
+	background-image:url(../shared/icons/fam/cog_edit.png) !important;
+}
+.icon-grupo16 {
+	background-image:url(../shared/icons/fam/icon_grupo16.png) !important;
+}
+.icon-marca16 {
+	background-image:url(../shared/icons/fam/icon_marca16.png) !important;
+}
+
+.icon-user {
+	background-image:url(../shared/icons/fam/user.png) !important;
+}
+
+.icon-useradd {
+	background-image:url(../shared/icons/fam/user_add.png) !important;
+}
+
+.icon-useredit {
+	background-image:url(../shared/icons/fam/user_edit.png) !important;
+}
+
+.icon-grid {
+	background-image:url(../shared/icons/fam/grid.png) !important;
+}
+
+.sales16 {
+    background-image: url(../shared/icons/fam/sales16.png) !important;
+}
+
+.icon-box_open {
+    background-image: url(../shared/icons/fam/box_open.png) !important;
+}
+
+.icon-box_close {
+    background-image: url(../shared/icons/fam/box_close.png) !important;
+}
+
+.icon-chart {
+	background-image:url(../shared/icons/fam/chart.gif) !important;
+}
+.caixa-geral {
+	background-image:url(../shared/icons/fam/caixa_geral.png) !important;
+}
+.contas-receber {
+	background-image:url(../shared/icons/fam/contas_receber.png) !important;
+}
+.icon-comissao {
+	background-image:url(../shared/icons/fam/icon_comissao2.png) !important;
+}
+
+div.x-date-menu[style]
+{ /* Corrects width bug IE8 for calendar widget */
+width: 175px !important;
+}
+
+.ico-cadeado{
+	background-image:url(../shared/icons/fam/lock.png) !important;
+}
+
+.ico-app-go{
+	background-image:url(../shared/icons/fam/application_go.png) !important;
+}
+
+.icon-cambio {
+	background-image:url(../shared/icons/fam/cambio.png) !important;
+}
+
+.error-msg{
+	float:left;
+	font-size:11px;
+	line-height:28px;
+	color:#ff2f2f;
+	font-weight:bold;
+	display:none;
+}
+
+

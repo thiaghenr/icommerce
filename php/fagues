@@ -1,0 +1,22 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="104" xOffset="0" scrollWidth="1936" startPos="4645" endPos="4971" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\principal.php" />
+            <File firstVisibleLine="135" xOffset="0" scrollWidth="1544" startPos="190" endPos="53" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\CaixaUsu.js" />
+            <File firstVisibleLine="443" xOffset="0" scrollWidth="1464" startPos="14691" endPos="15030" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\contas_pagar.js" />
+            <File firstVisibleLine="938" xOffset="0" scrollWidth="1264" startPos="29221" endPos="29271" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\todo\jstb\ImpBoleta.js" />
+            <File firstVisibleLine="27" xOffset="0" scrollWidth="1152" startPos="1268" endPos="1268" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\Cheques.php" />
+            <File firstVisibleLine="149" xOffset="0" scrollWidth="1192" startPos="7474" endPos="7481" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\saida_cheque_inf.js" />
+            <File firstVisibleLine="48" xOffset="0" scrollWidth="1557" startPos="2523" endPos="2536" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\saida_cheque_inf.php" />
+            <File firstVisibleLine="288" xOffset="0" scrollWidth="1376" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\ChequesEmit.js" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="1544" startPos="1517" endPos="1517" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\caixaChange.js" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="920" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\caixaChange.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1296" startPos="2754" endPos="2762" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\ChequesEmit.php" />
+            <File firstVisibleLine="125" xOffset="0" scrollWidth="1376" startPos="5861" endPos="5881" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\ContasBanco.php" />
+            <File firstVisibleLine="214" xOffset="0" scrollWidth="1240" startPos="9719" endPos="9719" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\ContasBanco.js" />
+            <File firstVisibleLine="27" xOffset="0" scrollWidth="1040" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\php\entrada_cheque.php" />
+            <File firstVisibleLine="416" xOffset="0" scrollWidth="1136" startPos="14439" endPos="14448" selMode="0" lang="Javascript" encoding="-1" filename="C:\wamp\www\jstb\entrada_cheque.js" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

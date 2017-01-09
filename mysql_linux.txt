@@ -1,0 +1,13 @@
+grant all privileges on *.* to root@'%.%.%.%' identified by 'vertrigo' with grant option;
+
+
+
+
+SET PASSWORD FOR root@'localhost' = PASSWORD('vertrigo');
+
+
+
+
+
+ubuntu(mudar a senha)
+dpkg-reconfigure mysql-server-5.0 

@@ -1,0 +1,146 @@
+/* xxxxxxxxxxxxxx [ style ] xxxxxxxxxxxxxx */
+
+*		{text-decoration:none; margin:0; padding:0; list-style:none; vertical-align:middle; border:none;}
+html	{text-align:center; background-color: #fff; background-position: top center; background-repeat: repeat-x;}
+
+br.c			{clear: all;}
+br.l			{clear: left;}
+form			{display:inline;}
+a:hover		{text-decoration: underline;}
+table			{width: 500px; border-collapse: collapse; border-spacing: 0;}
+div,td		{line-height: 13px; color: #7C7C7C;}
+input,
+select,
+textarea		{padding: 0 0 0 3px;}
+div, td, input,
+select, textarea,
+h1, h2, h3, h4, h5, h6	{font-family: Tahoma, "Trebuchet MS", Verdana, Arial; font-size: 11px; font-weight: normal;}
+h1, h2, h3, h4, h5, h6	{font-weight: bold;}
+#trtitle      {height: 18px;}
+#tdtitle1     {font:bold 11px Tahoma; background:#F8F8F8; height: 11px; width: 400px; border-top: 1px; border-bottom: solid 1px #CCCCCC; border-top: solid 1px #CCCCCC;}
+#tdtitle2     {font:bold 11px Tahoma; background:#F8F8F8; height: 11px; width: 10px;border-top: 1px;  border-bottom: solid 1px #CCCCCC; border-top: solid 1px #CCCCCC;}
+#tdtitle3     {font:bold 11px Tahoma; background:#F8F8F8; height: 11px; width: 50px;border-top: 1px;  border-bottom: solid 1px #CCCCCC; border-top: solid 1px #CCCCCC;}
+#tdtitle4     {font:bold 11px Tahoma; background:#F8F8F8; height: 11px; width: 80px;border-top: 1px;  border-bottom: solid 1px #CCCCCC; border-top: solid 1px #CCCCCC;}
+#td1          {width: 400px;}
+#td2          {width: 10px;}
+#td3          {width: 50px; text-align: right;}
+
+#mae          {width: 775px; margin: 0 auto; height: 100%; text-align: center;}
+#cima	        {width: 775px;}
+#meio	   {width: 775px;}
+#baixo	{width: 775px; height: 94px; background: #608CD6 url(../img/rest/bg_v.jpg) top repeat-x; text-align: left;}
+#espacologado  {width: 202px; height: 30px;}
+#espacologin   {width: 202px; height: 11px;}
+
+#coluna	   {width: 202px;}
+#content	   {width: 500px;}
+#tablemapa  {width: 500px;}
+
+#logo		{width: 202px; height: 158px;}
+#logo img	{margin-top: 5px; width: 110px; height: 110px;}
+
+
+#menu		           {position: relative; width: 202px; background: #fff url(../img/home/bg_menu.gif) right repeat-y; text-align: left; border-bottom: solid 2px #ccc;height: 400px;}
+#menu ul			     {width: 201px; padding: 10px 0 0 0; text-align: right;cursor:hand;}
+#menu ul li			  {width: 201px; height: 35px; }
+#menu ul li a		  {display: block; width: 201px; height: 30px; text-decoration: none; font-family: "Trebuchet MS", Arial, Verdana; font-size: 12px; color: #666666; background-color: transparent; background-position: right center; background-repeat: no-repeat;}
+#menu ul li a span  {position: absolute; height:30px; right: 1px; margin-top: 0px;}
+
+
+#menu li#aempresa a	{ }
+#menu li#aempresa.atv a, #menu li#aempresa a:hover, #menu li#produtos.atv a, #menu li#produtos a:hover,
+#menu li#parceiros.atv a, #menu li#parceiros a:hover, #menu li#facaseuorcamento.atv a, #menu li#facaseuorcamento a:hover,
+#menu li#noticiaseeventos.atv a, #menu li#noticiaseeventos a:hover, #menu li#atendimentoonline.atv a, #menu li#atendimentoonline a:hover,
+#menu li#faleconosco.atv a, #menu li#faleconosco a:hover, #menu li#acessorestrito.atv a,
+#menu li#acessorestrito a:hover		{  }
+
+#login                     {height: 213px;}
+#login div.userpass			{width: 202px; margin-top:10px;  ; height: 78px; background: url(../img/rest/bg_login.gif) top left no-repeat; color: #7C7C7C; font-size: 11px; text-align: left; padding-top: 45px;}
+#login div.userpass div		{font-size: 9px; color: #B9B9B9; margin-left: 50px; line-height: 10px; text-align: left;}
+#login div.userpass div a	{color: #B9B9B9;}
+#login div.esqueci         {margin-right: 5px;}
+#login input#user			   {margin-left: 5px; width: 148px; height: 17px; margin-bottom: 4px; border-bottom: solid 1px #CCCCCC;}
+#login input#pass			   {margin-left: 3px; width: 118px;  height: 17px; margin-bottom: 4px; border-bottom: solid 1px #CCCCCC;}
+#login input#btform			{width: 21px; height: 21px; margin-left: 2px;}
+#login div.cadastro			{width: 201px; height: 56px; background: #CACACA; border-top: solid 1px #FFF; border-right: solid 1px #FFF; border-bottom: solid 1px #E5E5E5;}
+#login div.cadastro span	{float: left; color: #FFF; margin: 16px 0 0 20px; line-height: 12px;}
+#login div.cadastro a		{float: right; margin: 12px 15px 0 0;}
+#login label#user          {margin-left: 6px; width: 20px; height: 17px;}
+#login label#pass          {margin-left: 6px; width: 20px; height: 17px;}
+
+#logado        {margin-top: 10px; height: 203px }
+.alinhamento   {float:right; margin-right:5px;}
+.menulogado    {width:161px; height:5px; background:url(../img/menu/bglogado.gif) top no-repeat; font-family:Tahoma; font-size:10px; color:#333333;}*/
+.bgmanuais     {height:14px; font-family:Tahoma; font-size:11px; color:#7C7C7C;}
+.bgmanuais1    {background:#F8F8F8; height:28px; font-family:Tahoma; font-size:11px; color:#7C7C7C;}
+
+
+
+#baixo div.logo			   {background: url(../img/rest/logo_rodape.gif) top left no-repeat; margin-left: 27px; height: 62px;}
+#baixo span.copyright	   {color: #3366CC; float: left; margin: 18px 0 0 120px;}
+#baixo span.copyright A	   {color: #FFF;}
+#baixo a.politica		      {float: right; color: #3366CC; margin: 18px 8px 0 0;}
+
+
+#mempresa		  {margin: 23px 0 0 190px;}
+.submenu		     {position:absolute; z-index:50; visibility:hidden; width: 130px; padding: 2px 0; background: #EFEFEF;}
+.submenu DIV	  {padding: 6px 0; margin-left: 14px;}
+.submenu A		  {text-decoration: none; font-family: Tahoma; font-size: 9px; color: #333333;}
+.submenu A:hover {text-decoration: underline;}
+.sublinha		  {width: 120px; border-bottom: 1px solid #D7D7D7;}
+
+#mprodutos		{margin: 56px 0 0 190px;width: 130px;}
+#mparceiros		{margin: 89px 0 0 190px;width: 130px;}
+
+ul.classic		{margin-left: 15px;}
+ul.classic li	{list-style: disc;}
+
+.mouse {cursor:pointer; cursor:hand; color:#333333;}
+
+ul#menulogado
+{
+width:201px;
+height:130px;
+background:#EFEFEF;
+border-right:1px solid #CCCCCC;
+border-bottom:3px solid #CCCCCC;
+font:bold 10px Tahoma;
+}
+
+ul#menulogado li { position:relative; }
+
+ul#menulogado a {
+width:180px;
+height:19px;
+display:block;
+padding:5px 20px;
+text-decoration:none;
+color:#333333;
+background:url(../img/menu/bglogado.gif) top no-repeat;
+}
+
+ul#menulogado a:hover {
+border:0px;
+width:180px;
+height:19px;
+display:block;
+padding:5px 20px;
+text-decoration:none;
+color:#333333;
+background:url(../img/menu/bglogado_ovr.jpg) top no-repeat;
+}
+
+ul#menulogado a div {display:none;}
+
+ul#menulogado a:hover div
+{
+display:block;
+position:absolute;
+top:0px;
+left:202px;
+width:150px;
+background:#EFEFEF;
+font-size:10px;
+border-right:1px solid #CCCCCC;
+border-bottom:1px solid #CCCCCC;
+}

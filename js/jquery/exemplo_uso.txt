@@ -1,0 +1,15 @@
+		$(document).ready(function() {
+			$("#frm_alt_produto").validationAideEnable();
+			$("#btn_salvar").click(function(){ $("#frm_alt_produto").submit() });
+			$("#btn_limpar").click(function(){ limpar("nm_titulo") });
+			$("#btn_voltar").click(function(){ window.location = 'tela_cons_tbsys009_produto.php'; });
+			$("#garantia_loja").calendar({buttonImage: "img/calendar.gif"});
+			$("#garantia_fabricante").calendar({buttonImage: "img/calendar.gif"});
+			
+			$("#tbsys003_material_id").change(function(){dados_ajax("../procedimentos/tbsys003_material.php","tbsys003_material_id","nm_material","tbsys006_marca_id")});
+			$("#tbsys005_subgrupo_id").change(function(){dados_ajax("../procedimentos/tbsys005_subgrupo.php","tbsys005_subgrupo_id","nm_subgrupo","tbsys003_material_id")});
+			$("#tbsys006_marca_id").change(function(){dados_ajax("../procedimentos/tbsys006_marca.php","tbsys006_marca_id","nm_marca","tbsys007_fabricante_id")});
+			$("#tbsys007_fabricante_id").change(function(){dados_ajax("../procedimentos/tbsys007_fabricante.php","tbsys007_fabricante_id","nm_fabricante","nm_titulo")});
+			$("#tbsys008_tamanho_id").change(function(){dados_ajax("../procedimentos/tbsys008_tamanho.php","tbsys008_tamanho_id","nm_tamanho","codigo_loja")});
+			
+		});

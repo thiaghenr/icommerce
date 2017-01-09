@@ -1,0 +1,6 @@
+/*div#ClientValidationSummary { background-color: #FF0000; width: 350px; padding: 5px; color: white; }
+div#ClientValidationSummary a { color: white; }*/
+input.falha-validacao{ background-color: #ffc0cb; }
+textarea.falha-validacao{ background-color: #ffc0cb; }
+select.falha-validacao{ background-color: #ffc0cb; }
+div.mensagem-erro-validacao{ display: block; float: left; padding-left: 10px; color: #ff0000; font-size: 12px}
